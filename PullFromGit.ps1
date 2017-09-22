@@ -1,4 +1,4 @@
-﻿#Pull From Git
+﻿#Prompt for Pull From Git
 
 Param
   (
