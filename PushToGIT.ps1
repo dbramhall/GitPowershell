@@ -10,5 +10,6 @@ $msg = Read-Host "Enter Commit Message"
 
 git add *
 git commit -a -m $msg
+git push -u origin master
 
 git status
