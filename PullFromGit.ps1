@@ -5,3 +5,4 @@ Param
   [parameter(mandatory=$true)]$Gitpull
   )
 
+  git status
